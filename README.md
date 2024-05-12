@@ -1,4 +1,3 @@
 NAAN MUDHALVAN PROJECTS
-USE CASE 17- TIME SERIES FORECASTING
-Use Case 10: Facial Recognition System 
+USE CASE 17-Stock price prediction
 Use Case 2: Handwriting Recognition 
